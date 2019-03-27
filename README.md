@@ -1,6 +1,6 @@
-#简书网站模拟项目
+# `简书网站模拟项目`
 
-## `技术`
+### `技术`
 
 react, redux, react-router, react-redux, redux-thunk, styled-components, iconfont.cn, react-transition-group, immutable
 
